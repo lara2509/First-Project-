@@ -1,0 +1,122 @@
+.Container{
+ background-color:#FFCD9E;
+ height:1500px;
+ width:100vw;
+ display: flex;
+
+ 
+}
+
+.Container .header .row .col-1 h2{
+    font-size: 130px;
+    margin-top: 130px;
+    font-style: normal;
+    margin-left: 200px;
+
+}
+
+.Container .header .row .col-1 p{
+    font-size: 70px;
+    margin-left: 200px;
+
+}
+
+.Container .header .row .col-1 h3{
+    font-size: 60px;
+    margin-left: 200px;
+}
+
+.Container .header .row .col-1 input{
+    width: 344px;
+    height: 64px;
+    top: 411px;
+    left: 136px;
+    border-radius: 8px;
+    border: 4px;
+    border-color: black;
+    margin-left: 200px;
+
+}
+
+
+
+.Container .header .row .col-1 button{
+width: 216px;
+height: 64px;
+top: 411px;
+left: 496px;
+border-radius: 8px;
+background-color: black;
+color: azure;
+
+
+}
+
+.Container .header .row .col-1 h4{
+    margin-left: 200px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0em;
+   
+
+}
+
+
+.Container .header .row .col-2{
+    position:absolute;
+    top: 0;
+    right: 12%;
+    
+
+}
+
+.Container .header .row .col-2 img{
+    width: 1000px;
+    height: 1000px;
+    top: 20px;
+    left: 818px;
+    padding: 66.4px, 89.61px, 66.15px, 91.87px;
+}
+
+
+.footer{
+    background-color: black;
+    height: 650px;
+    width:auto;
+    display: flex;
+
+}
+
+.footer .left ul{
+    list-style-type: none;
+    color: azure;
+    margin-right: 500px;
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 40;
+    line-height: 90px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    
+
+    
+}
+
+.footer .right ul{
+    list-style-type: none;
+    color: azure;
+    margin-left: 2500px;
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 40;
+    line-height: 90px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+
